@@ -3,6 +3,9 @@ SEGGER JLINK-OB JTAG is a low-cost debug probe. It can be used to program and de
 
 # How to use
 1. Connect the two boards as shown below.
+<p align="center">
+  <img width="750" height="500" src="https://github.com/idreamsi/Wukong2040-Toy-Boat/blob/main/wiring.jpg?raw=true">
+</p>
 
 2. Download the [JLink Windows v7.94g](https://www.segger.com/downloads/jlink/) program and run ```JFlashLite.exe``` from its installation path.
 
