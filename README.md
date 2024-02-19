@@ -1,0 +1,1 @@
+# bootloader-fix-for-makerdiary-nrf52840-mdk-usb-dongle
