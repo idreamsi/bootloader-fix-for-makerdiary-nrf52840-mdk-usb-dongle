@@ -1,4 +1,4 @@
-# bootloader-fix-for-makerdiary-nrf52840-mdk-usb-dongle
+# Bootloader Fix for Makerdiary nrf52840 mdk USB dongle
 SEGGER JLINK-OB JTAG is a low-cost debug probe. It can be used to program and debug the application software running on Arm Cortex Microcontrollers.
 
 # How to use
