@@ -1,5 +1,5 @@
 # Bootloader Fix for Makerdiary nrf52840 mdk USB dongle
-SEGGER JLINK-OB ([Clone Version](https://www.aliexpress.com/item/1005003670186319.html)) is a low-cost debug probe. It can be used to program and debug the application software running on Arm Cortex Microcontrollers.
+SEGGER JLINK-OB (Of course [Clone Version](https://www.aliexpress.com/item/1005003670186319.html)) is a low-cost debug probe. It can be used to program and debug the application software running on Arm Cortex Microcontrollers.
 
 # How to use
 1. Connect the two boards as shown below.
