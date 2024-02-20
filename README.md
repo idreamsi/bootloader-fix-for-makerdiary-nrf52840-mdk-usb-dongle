@@ -4,7 +4,7 @@ SEGGER JLINK-OB (Of course [Clone Version](https://www.aliexpress.com/item/10050
 # How to use
 1. Connect the two boards as shown below.
 <p align="center">
-  <img width="750" height="380" src="https://github.com/idreamsi/bootloader-fix-for-makerdiary-nrf52840-mdk-usb-dongle/blob/main/wiring.jpg?raw=true">
+  <img width="750" height="350" src="https://github.com/idreamsi/bootloader-fix-for-makerdiary-nrf52840-mdk-usb-dongle/blob/main/wiring.jpg?raw=true">
 </p>
 
 2. Download the [JLink Windows v7.94g](https://www.segger.com/downloads/jlink/) program and run ```JFlashLite.exe``` from its installation path.
