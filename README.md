@@ -10,3 +10,8 @@ SEGGER JLINK-OB (Of course [Clone Version](https://www.aliexpress.com/item/10050
 2. Download the [JLink Windows v7.94g](https://www.segger.com/downloads/jlink/) program and run ```JFlashLite.exe``` from its installation path.
 
 3. Select ```nRF52840_xxAA``` from the device section and select ```SWD``` in the interface section. Click ```OK``` and select the [firmware file](https://github.com/idreamsi/bootloader-fix-for-makerdiary-nrf52840-mdk-usb-dongle/blob/main/firmware/uf2_bootloader/0.7.1/uf2_bootloader-nrf52840_mdk_usb_dongle-0.7.1-s140_6.1.1.hex) from the ```Data File (bin/hex/mot/...)``` section in the new window. At the end, press the ```Program Device``` key. Before starting the process, make sure that the ```JLINK-OB drivers``` are installed.
+
+## 💵 Donation
+If this project help you reduce time to develop, you can give me a cup of coffee :)
+
+- Donate via Bitcoin: 17FjznvUNk8G9UPKsvpVCq9U7z4iDtXVBE
